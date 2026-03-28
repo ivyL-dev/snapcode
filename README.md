@@ -1,6 +1,6 @@
-# Snapcode
+# SnapCode
 
-**Snapcode** is an AI-native web and digital product company.
+**SnapCode** is an AI-native web and digital product company.
 
 ## What we do
 
@@ -20,7 +20,7 @@ We build websites, landing pages, product surfaces, and digital interfaces that 
 
 ## Current direction
 
-Snapcode is currently building its public presence, product direction, and first-generation digital systems.
+SnapCode is currently building its public presence, product direction, and first-generation digital systems.
 
 ## Structure
 
